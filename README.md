@@ -1,16 +1,13 @@
-## Hi there 👋
+## Oii! Eu sou o Pedro
 
-<!--
-**pedrlucz/pedrlucz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Estou atualmente trabalhando com o Grupo Meirelles, Back-End
+- 🐍 Atuando atualmente em Python
+- 📚 Estudando Python, js e php
 
-Here are some ideas to get you started:
+<div>
+  <a href="https://github.com/pedrlucz"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrlucz&show_icons=true&theme=midnight-purple&include_all_commit=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=168&theme=midnight-purple"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
