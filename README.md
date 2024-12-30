@@ -1,22 +1,138 @@
-## Oii! Eu sou o Pedro
+## 🐺 Pedro Lucas
+**`Dev Jr`**
 
-- 🔭 Estou atualmente trabalhando com o Grupo Meirelles, Back-End
-- 🐍 Atuando atualmente em Python
-- 📚 Estudando Python, js e php
+- <img 
+    width="20px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/phalcon/phalcon-original.svg"> Atualmente trabalhando com o Grupo Meirelles, Back-End
+- <img 
+    width="20px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"> Atuando em Python
+- <img 
+    width="20px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain.svg"> Estudando Python, JS , php e Java
 
 <div>
-  <a href="https://github.com/pedrlucz"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrlucz&show_icons=true&theme=midnight-purple&include_all_commit=true&count_private=true&hide_rank=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=6&theme=midnight-purple"/>
+  <a href="https://instagram.com/pedrlucz"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=donut&langs_count=6&theme=midnight-purple&hide_progress=true"/>
 </div>
 
-### Languages:
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+##
 
-### Technologies & Frameworks:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+<font size="15">**Linguagens:**</font><img align="left" 
+    alt="Python"
+    title="Python"
+    width="20px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg" />  
+
+
+
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+/>
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="TyperScript" 
+    title="TypeScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="C" 
+    title="C"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg"
+/>
+
+<br/>
+<br/>
 
 ##
+
+<font size="15">**Technologies & Frameworks:**</font><img align="left" 
+    alt="Python"
+    title="Python"
+    width="20px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg" /> 
+    
+<img 
+    align="left" 
+    alt="Django" 
+    title="Django"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Flask" 
+    title="Flask"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg"          
+/>     
+
+<img 
+    align="left" 
+    alt="SQLAlquemy" 
+    title="SQLAlquemy"
+    width="30px" 
+    style="padding-right: 10px;" 
+    img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original-wordmark.svg"
+/> 
+
+
+
